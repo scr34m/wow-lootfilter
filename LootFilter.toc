@@ -1,0 +1,5 @@
+## Interface: 11501
+## Title: LootFilter
+## Notes: Loot filter for fishing primary, you can exclude items to not loot
+## SavedVariablesPerCharacter: LootFilterVars
+LootFilter.lua
